@@ -1,0 +1,181 @@
+{
+  "project_info": {
+    "project_number": "884607307332",
+    "project_id": "loginsignup-54db5",
+    "storage_bucket": "loginsignup-54db5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884607307332:android:3e0ef82aef3ef287a5f611",
+        "android_client_info": {
+          "package_name": "com.example.firebaseloinlogout"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaiyPHxVxSuRaJmn3T8VcQOI9BAZbknac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884607307332:android:7b1ca64fad99f476a5f611",
+        "android_client_info": {
+          "package_name": "com.example.loginfirbase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaiyPHxVxSuRaJmn3T8VcQOI9BAZbknac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884607307332:android:a4a856b2862f5e0da5f611",
+        "android_client_info": {
+          "package_name": "com.example.loginn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaiyPHxVxSuRaJmn3T8VcQOI9BAZbknac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884607307332:android:4dcf5c1faec56f74a5f611",
+        "android_client_info": {
+          "package_name": "com.example.loinfirbas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaiyPHxVxSuRaJmn3T8VcQOI9BAZbknac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884607307332:android:5676662e25e08d34a5f611",
+        "android_client_info": {
+          "package_name": "com.example.loinlogoutsignu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaiyPHxVxSuRaJmn3T8VcQOI9BAZbknac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884607307332:android:ecacd5563a51d878a5f611",
+        "android_client_info": {
+          "package_name": "com.example.myfirebaseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaiyPHxVxSuRaJmn3T8VcQOI9BAZbknac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884607307332:android:195184b57d2aeff3a5f611",
+        "android_client_info": {
+          "package_name": "com.example.nexelloginrgistration"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaiyPHxVxSuRaJmn3T8VcQOI9BAZbknac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884607307332:android:62cbd6a17f01e223a5f611",
+        "android_client_info": {
+          "package_name": "com.example.signup_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaiyPHxVxSuRaJmn3T8VcQOI9BAZbknac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884607307332:android:367f915ca9ca7c8fa5f611",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaiyPHxVxSuRaJmn3T8VcQOI9BAZbknac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
