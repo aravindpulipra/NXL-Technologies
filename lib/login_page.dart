@@ -62,7 +62,7 @@ class _LoginPageState extends State<LoginPage> {
                       border: OutlineInputBorder(
                           borderRadius: BorderRadius.circular(12)),
                       errorStyle: TextStyle(
-                          color: Colors.redAccent,
+                          color: Colors.red.shade100,
                           fontSize: 16,
                           fontWeight: FontWeight.bold)),
                   validator: (value) {
@@ -82,7 +82,7 @@ class _LoginPageState extends State<LoginPage> {
                       border: OutlineInputBorder(
                           borderRadius: BorderRadius.circular(12)),
                       errorStyle: TextStyle(
-                        color: Colors.redAccent,
+                        color: Colors.red.shade100,
                         fontSize: 16,
                         fontWeight: FontWeight.bold,
                       )),

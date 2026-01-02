@@ -60,7 +60,7 @@ class _SignupPageState extends State<SignupPage> {
                       border: OutlineInputBorder(
                           borderRadius: BorderRadius.circular(12)),
                       errorStyle: TextStyle(
-                          color: Colors.redAccent,
+                          color: Colors.red.shade100,
                           fontSize: 16,
                           fontWeight: FontWeight.bold)),
                   validator: (value) {
@@ -80,7 +80,7 @@ class _SignupPageState extends State<SignupPage> {
                       border: OutlineInputBorder(
                           borderRadius: BorderRadius.circular(12)),
                       errorStyle: TextStyle(
-                        color: Colors.redAccent,
+                        color: Colors.red.shade100,
                         fontWeight: FontWeight.bold,
                         fontSize: 16,
                       )),
@@ -101,7 +101,7 @@ class _SignupPageState extends State<SignupPage> {
                       border: OutlineInputBorder(
                           borderRadius: BorderRadius.circular(12)),
                       errorStyle: TextStyle(
-                          color: Colors.redAccent,
+                          color: Colors.red.shade100,
                           fontSize: 16,
                           fontWeight: FontWeight.bold)),
                   obscureText: true,
@@ -125,7 +125,7 @@ class _SignupPageState extends State<SignupPage> {
                       border: OutlineInputBorder(
                           borderRadius: BorderRadius.circular(12)),
                       errorStyle: TextStyle(
-                          color: Colors.redAccent,
+                          color: Colors.red.shade100,
                           fontSize: 16,
                           fontWeight: FontWeight.bold)),
                   obscureText: true,
