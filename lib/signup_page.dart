@@ -58,7 +58,11 @@ class _SignupPageState extends State<SignupPage> {
                       filled: true,
                       fillColor: Colors.white,
                       border: OutlineInputBorder(
-                          borderRadius: BorderRadius.circular(12))),
+                          borderRadius: BorderRadius.circular(12)),
+                      errorStyle: TextStyle(
+                          color: Colors.redAccent,
+                          fontSize: 16,
+                          fontWeight: FontWeight.bold)),
                   validator: (value) {
                     if (value == null || value.isEmpty) {
                       return "Name is required";
@@ -74,7 +78,12 @@ class _SignupPageState extends State<SignupPage> {
                       filled: true,
                       fillColor: Colors.white,
                       border: OutlineInputBorder(
-                          borderRadius: BorderRadius.circular(12))),
+                          borderRadius: BorderRadius.circular(12)),
+                      errorStyle: TextStyle(
+                        color: Colors.redAccent,
+                        fontWeight: FontWeight.bold,
+                        fontSize: 16,
+                      )),
                   validator: (value) {
                     if (value == null || value.isEmpty) {
                       return "Email is required";
@@ -90,7 +99,11 @@ class _SignupPageState extends State<SignupPage> {
                       filled: true,
                       fillColor: Colors.white,
                       border: OutlineInputBorder(
-                          borderRadius: BorderRadius.circular(12))),
+                          borderRadius: BorderRadius.circular(12)),
+                      errorStyle: TextStyle(
+                          color: Colors.redAccent,
+                          fontSize: 16,
+                          fontWeight: FontWeight.bold)),
                   obscureText: true,
                   validator: (value) {
                     if (value == null || value.isEmpty) {
@@ -110,7 +123,11 @@ class _SignupPageState extends State<SignupPage> {
                       filled: true,
                       fillColor: Colors.white,
                       border: OutlineInputBorder(
-                          borderRadius: BorderRadius.circular(12))),
+                          borderRadius: BorderRadius.circular(12)),
+                      errorStyle: TextStyle(
+                          color: Colors.redAccent,
+                          fontSize: 16,
+                          fontWeight: FontWeight.bold)),
                   obscureText: true,
                   validator: (value) {
                     if (value == null || value.isEmpty) {
